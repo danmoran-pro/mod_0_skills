@@ -1,6 +1,6 @@
-#how to become a Turing student.
+How to become a Turing student.
 
-##Please see the below on how to become a Turing Student
+Please see the below on how to become a Turing Student
 
 1. Attend a try coding weekend
   1.1 Reserve a date to attend
