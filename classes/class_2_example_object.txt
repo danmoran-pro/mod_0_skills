@@ -1,0 +1,21 @@
+Object #1: Macbook
+
+Attributes:
+Year: 2015
+Color: “Black”
+Software_Type: “MacOS”
+Touch_Bar: True
+RAM: 32
+Battery_Movie_Playback: 100
+Current_Battery_Level: 25.0
+Number_Of_Ports: 4
+Current_Ports_Used: 3
+
+Methods:
+Current_Battery_Prercentage: 25.0/100 * 100 = 25%
+
+Ammount_Of_Battery_Needed: 100 - 25.0 = 75
+
+Ports_remaining: 4 - 3 = 1
+
+Computer_Age: 2019 - 2015 = 4

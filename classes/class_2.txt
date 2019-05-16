@@ -1,0 +1,22 @@
+Class: Laptop
+
+Attributes:
+Year(integer)
+Color(string)
+Software_Type(string)
+Touch_Bar(Boolean)
+RAM(integer)
+Battery_Movie_Playback(Integer)
+Current_Battery_Level(Float)
+Number_Of_Ports(Integer)
+Current_Ports_Used(Integer)
+
+Methods:
+Current_Battery_Prercentage(Current_Battery_Level/ Battery_Movie_Playback *100)
+
+Ammount_Of_Battery_Needed(Battery_Movie_Playback - Current_Battery_Level)
+
+
+Ports_Remaining(Port_Capacity - Current_Ports_Used)
+
+Computer_Age(Current_year  - year_made)
