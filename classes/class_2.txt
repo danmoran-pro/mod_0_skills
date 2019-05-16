@@ -12,6 +12,7 @@ Number_Of_Ports(Integer)
 Current_Ports_Used(Integer)
 
 Methods:
+
 Current_Battery_Prercentage(Current_Battery_Level/ Battery_Movie_Playback *100)
 
 Ammount_Of_Battery_Needed(Battery_Movie_Playback - Current_Battery_Level)
