@@ -1,0 +1,19 @@
+Object #1: Top Loading
+
+Color: “Silver”
+Weight: 7.5
+Tank_Capacity: 3
+Current_Capacity: 1
+Functions: [ “Cooling, “Heating” ]
+Remote_Control: False
+Cord_Length: 6.6
+Warranty: 4
+
+Methods:
+Warranty_Left: 2019 - 2017 = 2
+
+Refill: 3 -1  = 2
+
+Increase_Cord_Length: 3.5 + 6.6= 10.1
+
+Calculate_Percent_Full: 1 / 3 *100 =33%
