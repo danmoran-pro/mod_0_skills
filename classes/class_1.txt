@@ -1,0 +1,21 @@
+Class: Water_Dispenser
+
+Attributes:
+Color(String)
+Weight(Float)
+Tank_Capacity(Integer)
+Current_Capacity(Integer)
+Functions(Array)
+Remote_Control(Boolean)
+Cord_Length(Float)
+Warranty(Integer)
+
+Methods:
+Warranty_Left (subtract Current_Year By Year_Purchased)
+
+Refill (subtracts Tank_Capacity from Current_Capacity and then refills that amount)
+
+Increase_Cord_Length(add Extension_Cord to Cord_Length)
+
+
+Calculate_Percent_Full (divides Current_Capacity by Tank_Capacity * 100)
