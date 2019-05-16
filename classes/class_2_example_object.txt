@@ -12,6 +12,7 @@ Number_Of_Ports: 4
 Current_Ports_Used: 3
 
 Methods:
+
 Current_Battery_Prercentage: 25.0/100 * 100 = 25%
 
 Ammount_Of_Battery_Needed: 100 - 25.0 = 75
